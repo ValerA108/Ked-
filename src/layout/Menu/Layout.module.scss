@@ -1,0 +1,13 @@
+.layout {
+  a {
+    transition: all ease-in-out 0.2s;
+    text-decoration: none;
+    color: #078303;
+    &:hover {
+      color: #18c412;
+    }
+  }
+  .active {
+    color: #18c412;
+  }
+}

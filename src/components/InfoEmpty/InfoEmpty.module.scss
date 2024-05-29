@@ -1,0 +1,21 @@
+.cartEmpty {
+  text-align: center;
+
+  p {
+    width: 280px;
+    line-height: 24px;
+  }
+
+  button {
+    width: 178px;
+    height: 47px;
+    background: #9dd558;
+    border-radius: 110px;
+    color: #ffffff;
+    font-size: 16px;
+    font-weight: bold;
+    left: 65px;
+    bottom: 50px;
+    transition: all ease-in-out 0.2s;
+  }
+}

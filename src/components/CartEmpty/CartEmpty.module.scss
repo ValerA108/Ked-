@@ -1,0 +1,19 @@
+.cartEmpty {
+  text-align: center;
+
+  p {
+    width: 280px;
+    line-height: 24px;
+  }
+
+  button {
+    img {
+      position: absolute;
+      left: 20px;
+      top: 20px;
+      transform: rotate(180deg);
+      right: 15px;
+      transition: all ease-in-out 0.15s;
+    }
+  }
+}
